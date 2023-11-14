@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "node-wget": "^0.4.3",
+    "tiny-server": "^1.1.1"
+  },
+  "name": "selectors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tiny-server",
+    "wget": "wget",
+    "cypress": "cypress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tiny": "^0.0.10"
+  }
+}
